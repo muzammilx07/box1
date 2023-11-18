@@ -1,0 +1,17 @@
+.main {
+    width: 70vh;
+    margin-top: 80px;
+    margin-left: 70px;
+    border: 3px solid red; 
+    padding: 5px 10px; 
+}
+
+h1 {
+    border: 3px solid red;
+    padding-left: 5px; 
+}
+
+p,ul,li,button,a {
+    border: 3px solid red; 
+    padding: 5px; 
+}
